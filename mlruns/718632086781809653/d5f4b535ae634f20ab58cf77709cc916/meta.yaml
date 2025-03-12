@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/718632086781809653/d5f4b535ae634f20ab58cf77709cc916/artifacts
+end_time: 1741793840542
+entry_point_name: ''
+experiment_id: '718632086781809653'
+lifecycle_stage: active
+run_id: d5f4b535ae634f20ab58cf77709cc916
+run_name: fortunate-boar-426
+run_uuid: d5f4b535ae634f20ab58cf77709cc916
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741793836922
+status: 3
+tags: []
+user_id: sonu

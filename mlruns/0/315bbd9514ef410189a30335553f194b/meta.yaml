@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/315bbd9514ef410189a30335553f194b/artifacts
+end_time: 1741761520491
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 315bbd9514ef410189a30335553f194b
+run_name: resilient-chimp-787
+run_uuid: 315bbd9514ef410189a30335553f194b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741761520474
+status: 3
+tags: []
+user_id: sonu

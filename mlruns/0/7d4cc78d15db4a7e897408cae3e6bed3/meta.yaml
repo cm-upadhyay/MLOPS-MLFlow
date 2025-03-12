@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/7d4cc78d15db4a7e897408cae3e6bed3/artifacts
+end_time: 1741761762263
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d4cc78d15db4a7e897408cae3e6bed3
+run_name: bald-kit-439
+run_uuid: 7d4cc78d15db4a7e897408cae3e6bed3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741761762240
+status: 3
+tags: []
+user_id: sonu
