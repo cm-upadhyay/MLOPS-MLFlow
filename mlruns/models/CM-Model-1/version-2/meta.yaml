@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741800625583
+current_stage: Staging
+description: ''
+last_updated_timestamp: 1741800681689
+name: CM-Model-1
+run_id: 18fc461b61ce4f97878b0b01129be2c5
+run_link: ''
+source: models:/CM-Model-1/1
+status: READY
+status_message: null
+storage_location: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/18fc461b61ce4f97878b0b01129be2c5/artifacts/random_forest
+user_id: null
+version: 2

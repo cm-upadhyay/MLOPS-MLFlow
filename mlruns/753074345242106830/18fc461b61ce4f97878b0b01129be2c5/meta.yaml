@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/18fc461b61ce4f97878b0b01129be2c5/artifacts
+end_time: 1741799500047
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: 18fc461b61ce4f97878b0b01129be2c5
+run_name: rumbling-wren-710
+run_uuid: 18fc461b61ce4f97878b0b01129be2c5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799492550
+status: 3
+tags: []
+user_id: sonu

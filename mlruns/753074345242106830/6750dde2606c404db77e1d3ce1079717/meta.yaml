@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/6750dde2606c404db77e1d3ce1079717/artifacts
+end_time: 1741799496374
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: 6750dde2606c404db77e1d3ce1079717
+run_name: fun-shoat-214
+run_uuid: 6750dde2606c404db77e1d3ce1079717
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496365
+status: 3
+tags: []
+user_id: sonu

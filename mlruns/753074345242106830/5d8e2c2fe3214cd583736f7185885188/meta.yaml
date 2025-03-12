@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/5d8e2c2fe3214cd583736f7185885188/artifacts
+end_time: 1741799496443
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: 5d8e2c2fe3214cd583736f7185885188
+run_name: adaptable-wolf-964
+run_uuid: 5d8e2c2fe3214cd583736f7185885188
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496433
+status: 3
+tags: []
+user_id: sonu

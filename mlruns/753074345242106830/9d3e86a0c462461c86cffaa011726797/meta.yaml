@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/9d3e86a0c462461c86cffaa011726797/artifacts
+end_time: 1741799496420
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: 9d3e86a0c462461c86cffaa011726797
+run_name: grandiose-horse-264
+run_uuid: 9d3e86a0c462461c86cffaa011726797
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496410
+status: 3
+tags: []
+user_id: sonu

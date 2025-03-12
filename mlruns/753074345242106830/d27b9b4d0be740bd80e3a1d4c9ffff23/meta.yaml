@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/d27b9b4d0be740bd80e3a1d4c9ffff23/artifacts
+end_time: 1741799496352
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: d27b9b4d0be740bd80e3a1d4c9ffff23
+run_name: clean-owl-142
+run_uuid: d27b9b4d0be740bd80e3a1d4c9ffff23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496342
+status: 3
+tags: []
+user_id: sonu

@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/2a41ff5824294205a22efa6642ef409e/artifacts
+end_time: 1741799496397
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: 2a41ff5824294205a22efa6642ef409e
+run_name: classy-hog-289
+run_uuid: 2a41ff5824294205a22efa6642ef409e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496387
+status: 3
+tags: []
+user_id: sonu

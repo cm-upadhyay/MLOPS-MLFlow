@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/2335a1d26e3a45cb987e138ba9c6f5e3/artifacts
+end_time: 1741799496363
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: 2335a1d26e3a45cb987e138ba9c6f5e3
+run_name: whimsical-frog-846
+run_uuid: 2335a1d26e3a45cb987e138ba9c6f5e3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496353
+status: 3
+tags: []
+user_id: sonu

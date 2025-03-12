@@ -1,0 +1,14 @@
+aliases: []
+creation_timestamp: 1741800758887
+current_stage: Production
+description: ''
+last_updated_timestamp: 1741800804430
+name: CM-Model-1
+run_id: 41cdc796af4f4fd58511399c435150f3
+run_link: ''
+source: mlflow-artifacts:/718632086781809653/41cdc796af4f4fd58511399c435150f3/artifacts/Random-Forest-Model
+status: READY
+status_message: null
+storage_location: mlflow-artifacts:/718632086781809653/41cdc796af4f4fd58511399c435150f3/artifacts/Random-Forest-Model
+user_id: null
+version: 3

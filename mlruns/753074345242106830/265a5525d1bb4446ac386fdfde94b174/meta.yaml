@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/265a5525d1bb4446ac386fdfde94b174/artifacts
+end_time: 1741799496408
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: 265a5525d1bb4446ac386fdfde94b174
+run_name: persistent-worm-565
+run_uuid: 265a5525d1bb4446ac386fdfde94b174
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496399
+status: 3
+tags: []
+user_id: sonu

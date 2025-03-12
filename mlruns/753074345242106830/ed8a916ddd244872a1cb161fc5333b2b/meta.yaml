@@ -1,0 +1,15 @@
+artifact_uri: file:///home/sonu/projects/mlops/MLOPS-MLFlow/mlruns/753074345242106830/ed8a916ddd244872a1cb161fc5333b2b/artifacts
+end_time: 1741799496318
+entry_point_name: ''
+experiment_id: '753074345242106830'
+lifecycle_stage: active
+run_id: ed8a916ddd244872a1cb161fc5333b2b
+run_name: shivering-koi-121
+run_uuid: ed8a916ddd244872a1cb161fc5333b2b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1741799496308
+status: 3
+tags: []
+user_id: sonu
